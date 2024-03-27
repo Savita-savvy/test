@@ -1,0 +1,76 @@
+body{
+	background-image: url("images/universe art.jpg");
+}
+
+header{
+	font-family: serif;
+	color: white;
+	font-size: 42px;
+	text-align: center;
+	padding: 20PX;
+}
+
+
+section{
+	padding: 6px;
+	margin: 10px;
+}
+
+
+div{
+	border: 7px inset orangered	;
+	padding: 8px;
+	margin: 10px;
+}
+
+pre{
+	font-family: cursive;
+	text-shadow: gold;
+	color: white;
+	text-align: left;
+	filter: blur(1px);
+	opacity: 0.6;
+}
+
+pre:hover{
+	opacity: 1.0;
+	font-size: 24px;
+	padding: 10px;
+	margin: 10px;
+	font-weight: bold;
+	color: white;
+	filter: blur(0px);
+	text-shadow: 2px 2px #000000;
+
+}
+
+.AnotherAlignment{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
